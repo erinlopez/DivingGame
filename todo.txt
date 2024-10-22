@@ -1,0 +1,17 @@
+destroy fish on worldBoundary
+
+game over if player hits floor
+
+camera follow to extend scene
+
+
+die sound effect
+
+title
+
+
+game over style
+
+settings: instructions, q to quit, sound settings
+
+reverse crab direction at x = 0
